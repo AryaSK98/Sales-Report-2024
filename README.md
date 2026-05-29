@@ -49,7 +49,7 @@ The table was marked as a Date Table enabling official functions in DAX.
 ### Report Development
 With the help of DAX, core metrics like gross sales, net sales, returns and return % were calculated. Dynamic KPI card measures were built to get a quick insight on the top category, top product, and most returned product responsively based on slicer context. Month-over-Month growth % allows the user to understand the direction and trend of the sales when compared month to month. The final report consists of two pages — a Sales Performance Dashboard and a Returns Analysis Dashboard — giving business users a self-serve tool to instantly monitor revenue trends, identify high-return products, compare branch performance, and analyse customer and payment behaviour through interactive slicers and drill-downs.
 
-           <img width="600" height="600" alt="Sales" src="https://github.com/user-attachments/assets/807fdbd8-b420-4c1d-ac39-dbcf16ab7135" />
+<img width="600" height="600" alt="Sales" src="https://github.com/user-attachments/assets/807fdbd8-b420-4c1d-ac39-dbcf16ab7135" />
 
-        <img width="600" height="600" alt="Sales Return" src="https://github.com/user-attachments/assets/8f545b98-d75e-4e0c-8746-0792ee0759c7" />
+<img width="600" height="600" alt="Sales Return" src="https://github.com/user-attachments/assets/8f545b98-d75e-4e0c-8746-0792ee0759c7" />
 
